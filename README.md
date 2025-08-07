@@ -107,8 +107,3 @@ A console-based Library Management System built using **Python** and **MySQL** t
 🌐 GitHub: [@ishankumar19](https://github.com/ishankumar19)  
 🔗 LinkedIn: [Ishant Kumar](https://linkedin.com/in/ishamt-kumar)
 
----
-
-## 📝 License
-
-This project is open-source and free to use for educational purposes. Add a license if needed (MIT, GPL, etc.).
