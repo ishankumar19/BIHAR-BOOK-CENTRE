@@ -94,16 +94,12 @@ A console-based Library Management System built using **Python** and **MySQL** t
 
 ---
 
-## 📸 Demo Screenshot
-
-> *(You can add a screenshot here after running the program using `Ctrl + PrtScr` and uploading it to the GitHub repo.)*
-
 ---
 
 ## ✍️ Author
 
-**Ishant Singh**  
+**Ishant kumar**  
 📧 Email: [ishansingh196055@gmail.com](mailto:ishansingh196055@gmail.com)  
 🌐 GitHub: [@ishankumar19](https://github.com/ishankumar19)  
-🔗 LinkedIn: [Ishant Kumar](https://linkedin.com/in/ishamt-kumar)
+🔗 LinkedIn: [Ishant Kumar](https://www.linkedin.com/in/ishant-kumar-b2b78b388/)
 
