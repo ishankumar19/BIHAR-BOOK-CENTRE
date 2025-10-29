@@ -91,10 +91,8 @@ A console-based Library Management System built using **Python** and **MySQL** t
 | book_name     | VARCHAR(50) |
 | delivery_date | DATE        |
 | price         | INT         |
-
 ---
 
----
 
 ## ✍️ Author
 
